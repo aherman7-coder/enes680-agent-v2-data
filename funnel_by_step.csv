@@ -1,0 +1,22 @@
+period,partner,step_order,application_step,entered,completed,completion_rate,dropped,mobile_share,note
+2026-Q3,Northwind Travel,1,Personal info,41200,32548,79%,8652,58%,Largest drop in this flow; validation errors on address fields (see T-07)
+2026-Q3,Northwind Travel,2,Income & housing,32548,27666,85%,4882,58%,Housing moved after income in 2025 (T-04)
+2026-Q3,Northwind Travel,3,Identity verification,27666,22963,83%,4703,58%,
+2026-Q3,Northwind Travel,4,Disclosures,22963,21815,95%,1148,58%,Plain-language summary test in progress (T-11)
+2026-Q3,Northwind Travel,5,Review & submit,21815,20070,92%,1745,58%,
+2026-Q3,Northwind Travel,6,Submitted,20070,,,,,Submit rate 48.7% of starts
+2026-Q3,Northwind Travel,7,Accounts booked,10162,,,,,61% approved; 83% of approved accepted offer
+2026-Q3,Harbor Market,1,Personal info,18900,16254,86%,2646,39%,No partner login data passed today
+2026-Q3,Harbor Market,2,Income & housing,16254,13978,86%,2276,39%,"Income tooltip tested twice (T-02, T-12)"
+2026-Q3,Harbor Market,3,Identity verification,13978,11322,81%,2656,39%,SSN explanation rolled out 2025 (T-05)
+2026-Q3,Harbor Market,4,Disclosures,11322,10869,96%,453,39%,
+2026-Q3,Harbor Market,5,Review & submit,10869,9891,91%,978,39%,Summary card did not replicate (T-09)
+2026-Q3,Harbor Market,6,Submitted,9891,,,,,Submit rate 52.3% of starts
+2026-Q3,Harbor Market,7,Accounts booked,4510,,,,,57% approved; 80% of approved accepted offer
+2026-Q3,Branded,1,Personal info,96500,84920,88%,11580,64%,
+2026-Q3,Branded,2,Income & housing,84920,75579,89%,9341,64%,
+2026-Q3,Branded,3,Identity verification,75579,63486,84%,12093,64%,Largest drop in the branded flow
+2026-Q3,Branded,4,Disclosures,63486,60947,96%,2539,64%,
+2026-Q3,Branded,5,Review & submit,60947,55462,91%,5485,64%,Summary card rolled out Jul 2025 (T-03)
+2026-Q3,Branded,6,Submitted,55462,,,,,Submit rate 57.5% of starts
+2026-Q3,Branded,7,Accounts booked,30049,,,,,63% approved; 86% of approved accepted offer
