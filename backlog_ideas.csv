@@ -3,6 +3,6 @@ B-01,Show an example income figure under the income field so applicants know wha
 B-02,Prefill personal info for logged-in Harbor Market applicants,Harbor Market,Personal info,Brian,Internal
 B-03,Add the review summary card to the Northwind partner flow,Northwind Travel,Review & submit,Brian,Branded
 B-04,Show estimated credit line range on partner flows before submit,Northwind Travel,Offer,Brian,Competitor
-B-05,Let applicants save and resume their application via an emailed link,Branded,All steps,Brian,Competitor
+B-05,Let applicants save and resume their application via an emailed link,Summit Outfitters,All steps,Brian,Competitor
 B-06,Move identity verification to the end of the application,Harbor Market,Identity verification,Brian,Internal
 B-07,Add a progress bar to partner flows,Northwind Travel,All steps,Brian,Internal

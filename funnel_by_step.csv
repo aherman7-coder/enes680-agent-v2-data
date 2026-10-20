@@ -13,10 +13,10 @@ period,partner,step_order,application_step,entered,completed,completion_rate,dro
 2026-Q3,Harbor Market,5,Review & submit,10869,9891,91%,978,39%,Summary card did not replicate (T-09)
 2026-Q3,Harbor Market,6,Submitted,9891,,,,,Submit rate 52.3% of starts
 2026-Q3,Harbor Market,7,Accounts booked,4510,,,,,57% approved; 80% of approved accepted offer
-2026-Q3,Branded,1,Personal info,96500,84920,88%,11580,64%,
-2026-Q3,Branded,2,Income & housing,84920,75579,89%,9341,64%,
-2026-Q3,Branded,3,Identity verification,75579,63486,84%,12093,64%,Largest drop in the branded flow
-2026-Q3,Branded,4,Disclosures,63486,60947,96%,2539,64%,
-2026-Q3,Branded,5,Review & submit,60947,55462,91%,5485,64%,Summary card rolled out Jul 2025 (T-03)
-2026-Q3,Branded,6,Submitted,55462,,,,,Submit rate 57.5% of starts
-2026-Q3,Branded,7,Accounts booked,30049,,,,,63% approved; 86% of approved accepted offer
+2026-Q3,Summit Outfitters,1,Personal info,12600,10584,84%,2016,52%,
+2026-Q3,Summit Outfitters,2,Income & housing,10584,9208,87%,1376,52%,
+2026-Q3,Summit Outfitters,3,Identity verification,9208,7551,82%,1657,52%,Largest drop in this flow
+2026-Q3,Summit Outfitters,4,Disclosures,7551,7173,95%,378,52%,
+2026-Q3,Summit Outfitters,5,Review & submit,7173,6456,90%,717,52%,Partner launched Mar 2026; no tests run yet
+2026-Q3,Summit Outfitters,6,Submitted,6456,,,,,Submit rate 51.2% of starts
+2026-Q3,Summit Outfitters,7,Accounts booked,3123,,,,,59% approved; 82% of approved accepted offer
