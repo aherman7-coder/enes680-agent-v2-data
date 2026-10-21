@@ -1,0 +1,14 @@
+jira_key,build_name,partner,application_step,change_type,story_points,days_to_ship,teams_involved,dependencies,related_test
+APP-1042,Partner login prefill (name/address),Northwind Travel,Personal info,Prefill from partner data,13,24,Front end; Partner integrations,Partner must pass login data via API; partner security review,T-01
+APP-1088,Income helper tooltip,Harbor Market,Income step,Inline copy / help content,3,6,Front end; Content,Partner copy approval,T-02
+APP-1101,Review page summary card,Branded,Review & submit,Page layout redesign,8,15,Front end; Design,,T-03
+APP-1117,Reorder housing after income,Northwind,Income & housing,Field reorder,2,4,Front end,,T-04
+APP-1134,SSN inline explanation + lock icon,Harbor Market,Identity verification,Inline copy / help content,3,12,Front end; Content; Legal,Partner legal review of security language (added 7 days),T-05
+APP-1150,Credit line range estimate before submit,Branded,Offer,New decisioning call + UI,21,38,Front end; Decisioning; Risk; Legal,Soft-pull decisioning service change; credit risk sign-off; adverse action language review,T-06
+APP-1162,Single-page personal info,Northwind Travel,Personal Info,Page layout redesign,5,9,Front end; Design,,T-07
+APP-1175,Monthly/annual income toggle,Harbor Market,Income/Housing,New input control + validation,5,11,Front end; Decisioning,Income field feeds decisioning; QA on annualization logic,T-08
+APP-1190,Summary card port to partner flow,Harbor Market,Review & Submit,Page layout redesign,5,10,Front end,Reused branded component,T-09
+APP-1203,Application progress bar,Branded,All steps,Shared UI component,,14,Front end; Design,Story points not logged,T-10
+APP-1219,Plain-language disclosures summary,Northwind,Disclosures,Inline copy / help content,3,21,Front end; Content; Legal; Compliance,Compliance review of disclosure summaries (added 14 days),T-11
+APP-1231,Income tooltip rerun on branded,Branded card,Income,Inline copy / help content,1,2,Front end,Reused APP-1088,T-12
+APP-1244,Email resend of application link (servicing),Branded,Post-submit,Email + secure link,8,19,Back end; Messaging; Security,Secure link token service; email template approval,
